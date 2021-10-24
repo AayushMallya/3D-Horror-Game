@@ -40,5 +40,5 @@ Clone the repository and run the main method located in the 'Launcher.java' clas
 
 ## Acknowledgements
 
-- Thanks to [Free3D](https://free3d.com/) for providing free 3D models that were used for this game. You rock!
+- Thanks to [Free3D](https://free3d.com/) for providing free 3D models that were used for this game.
 
